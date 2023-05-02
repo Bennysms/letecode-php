@@ -82,5 +82,7 @@
         include "footer.php";
     ?>
     <!-- footer- end -->
+
+    <script src="inde.js"></script>
 </body>
 </html>
